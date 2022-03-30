@@ -12,3 +12,8 @@ def hello_user(name):
 hello_user("James")
 
 # test github function
+
+def goodbye_user(name):
+    print(f"Goodbye {name}")
+
+goodbye_user('Vanessa')
