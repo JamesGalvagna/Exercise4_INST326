@@ -2,7 +2,7 @@
 A simple function that says hello to the user
 Group Members:
     - James Gavagna
-    - ENTER NAME
+    - Vanessa Aguocha-Sam
 
 '''
 
